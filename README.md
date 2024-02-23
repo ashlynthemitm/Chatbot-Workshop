@@ -33,5 +33,5 @@ python chatbot.py
 
 ## Contributors
 - [Ashlyn Campbell](https://github.com/ashlynthemitm)
-- [Aaja Christie]
+- [Aaja Christie](https://www.linkedin.com/in/aaja-christie-17573657/)
 
