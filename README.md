@@ -25,6 +25,12 @@ python chatbot.py
 - **Wikipedia Web Scraping**: Utilizes the Wikipedia API to fetch information based on user queries, providing quick access to a vast amount of knowledge.
 - **Simple and Intuitive**: Designed to be simple and intuitive to use, making it accessible to users with varying levels of technical expertise.
 
+## Files
+- `chatbot.py`: Main script for running the fully integrated Chatbot application.
+- `app.ipynb`: Step by Step instructions for implementing the Chatbot and backend functionality.
+- `app.py`: Original GUI script without additional functionality.
+- `ChatBot-Wiki.ipynb`: Original web scraping script without GUI Integration.
+
 ## Contributors
 - [Ashlyn Campbell](https://github.com/ashlynthemitm)
 - [Aaja Christie]
