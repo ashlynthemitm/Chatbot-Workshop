@@ -1,4 +1,4 @@
-# Chatbot Workshop
+# The Web Scraper Bot - Chatbot Workshop
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-This Chatbot is a simple application created as part of a workshop for an event. It utilizes Tkinter for the graphical user interface and Wikipedia web scraping functionality to provide information on various topics.
+This Chatbot is a GUI application created as part of a workshop for the RISE in Computing freshmen program. It utilizes Tkinter for the graphical user interface and Wikipedia web scraping functionality to provide information on various topics.
 
 ## Installation
 
